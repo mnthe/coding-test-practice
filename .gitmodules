@@ -1,0 +1,3 @@
+[submodule "template-generator"]
+	path = template-generator
+	url = https://github.com/mnthe/bjo-template-generator.git
